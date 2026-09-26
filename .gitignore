@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data & Large Output Files (Do not commit to GitHub)
+output/
+dataset/
+*.tsv
+*.csv
+*.joblib
+*.pkl
+
+# Packaging & Temp Files
+temp_extract/
+backup/
+*.zip
+*.log
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
